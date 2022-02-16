@@ -1,2 +1,2 @@
 # Pharmacy_Sales_Module
-Sales part iof the Pharmacy
+Sales part of the Pharmacy
